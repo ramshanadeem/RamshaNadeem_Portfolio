@@ -1,5 +1,5 @@
-import Navbar from "./navbar";
+import Home from "./home";
 import IntroSection from "./introSection";
 import AboutSection from "./aboutSection";
 import ContactSection from "./contactSection";
-export { Navbar, IntroSection, AboutSection, ContactSection };
+export { Home, IntroSection, AboutSection, ContactSection };
